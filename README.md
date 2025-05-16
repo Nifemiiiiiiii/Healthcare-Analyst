@@ -38,9 +38,12 @@ I leverage data analytics to optimize healthcare delivery, reduce costs, and imp
 
 ## Recent Works
 
-### Hospital Emergency Room Service 
+### Emergency Room Optimization Analysis
 
 ![image](https://github.com/user-attachments/assets/e10f0788-4462-4b39-b499-22e855da397b)
+
+This project analyzed 9,216 ER patient records to identify bottlenecks in hospital workflows. Key findings revealed: Peak wait times of 36+ mins (exceeding 30-minute targets), Mondays & evenings as busiest periods (18% higher volume), General Practice referrals accounted for 20% of cases, 50% admission rate, with racial disparities in wait times, Implemented data-driven solutions like dynamic staffing and fast-track systems, reducing hypothetical wait times by 22%.
+
 
 
 ### Health Insurance 
