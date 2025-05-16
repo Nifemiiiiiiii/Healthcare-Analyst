@@ -45,9 +45,16 @@ I leverage data analytics to optimize healthcare delivery, reduce costs, and imp
 ![image](https://github.com/user-attachments/assets/e10f0788-4462-4b39-b499-22e855da397b)
 
 
-
 ### Health Insurance 
+
+![image](https://github.com/user-attachments/assets/a9f51bef-bb68-42c5-aff2-94d46bd9163e)
+
 
 ### Patient Emergency Room Visit Report 
 
+![image](https://github.com/user-attachments/assets/27929279-4366-4f0b-ac98-e545b31ccfd7)
+
+
 ### Breast Cancer Analysis
+
+![image](https://github.com/user-attachments/assets/e1674867-59bc-4703-9631-20228b6b1d98)
