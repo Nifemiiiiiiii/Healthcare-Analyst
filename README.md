@@ -4,7 +4,7 @@
 ![Portfolio pic](https://github.com/user-attachments/assets/735ad387-ab7e-439e-a473-874e57a0146c)
 
 
-👋 Hi, I’m Oluwanifesimi Adebayo | Healthcare Data Analyst with 1+ Years in Clinical Diagnostics
+👋 Hi, I’m Oluwanifesimi Adebayo - Healthcare Data Analyst 
 
 *Bridging Biochemistry + Data Analysis to Optimize Patient Outcomes*
 
