@@ -76,16 +76,16 @@ I’m looking to collaborate with healthcare providers, health tech startups, or
 
 ## 📬 Contact Me
 
-<style>
-  .linkedin-badge:hover {
-    transform: scale(1.05);
-    transition: all 0.3s ease;
-  }
-</style>
 <p align="center">
-  <a href="https://www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b/" class="linkedin-badge" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20-%20Oluwanifesimi%20Adebayo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Oluwanifesimi%20Adebayo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 <p align="center"> <a href="mailto:ayodeleadebayo280@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-oluwanifesimiadebayo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"> </a> </p>
+
+<p align="center">
+  <a href="tel:+2348118130084" target="_blank">
+    <img src="https://img.shields.io/badge/Call%20Me-%2B234%2081181%2030084-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Call Me">
+  </a>
+</p>
