@@ -1,4 +1,4 @@
-# Healthcare Analyst
+# Healthcare Data Analyst
 
 ## ABOUT ME
 ![Portfolio pic](https://github.com/user-attachments/assets/735ad387-ab7e-439e-a473-874e57a0146c)
@@ -12,8 +12,6 @@ With hands-on experience in hospital and pharmaceutical settings, I specialize i
 
 I leverage data analytics to optimize healthcare delivery, reduce costs, and improve patient outcomes. My unique blend of **clinical knowledge** and **technical skills** allows me to translate complex medical data into actionable insights
 
-
-## 🚀 Skills & Tools
 
 ## 🚀 Skills & Tools
 
@@ -58,3 +56,17 @@ I leverage data analytics to optimize healthcare delivery, reduce costs, and imp
 ### Breast Cancer Analysis
 
 ![image](https://github.com/user-attachments/assets/e1674867-59bc-4703-9631-20228b6b1d98)
+
+
+## 🤝 Work With Me
+
+I’m actively open to Onsite, hybrid or remote opportunities as a Healthcare Data Analyst — especially with teams using data to improve healthcare delivery. With a background in Biochemistry, hands-on experience in hospital and pharmaceutical departments, and expertise in Power BI, Excel, Tableau, and SQL, I translate complex clinical data into actionable insights.
+
+I’m looking to collaborate with healthcare providers, health tech startups, or research-driven teams where my work can make a difference.
+
+## 📬 Contact Me
+
+📧 Email: oluwanifesimiadebayo@gmail.com
+
+💼 LinkedIn: linkedin.com/in/oluwanifesimi-adebayo
+<p align="center"> <a href="mailto:oluwanifesimiadebayo@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-oluwanifesimiadebayo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"> </a> </p>
