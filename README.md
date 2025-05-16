@@ -66,7 +66,6 @@ I’m looking to collaborate with healthcare providers, health tech startups, or
 
 ## 📬 Contact Me
 
-📧 Email: oluwanifesimiadebayo@gmail.com
+💼 LinkedIn: [linkedin.com/in/oluwanifesimi-adebayo](https://www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b/)
 
-💼 LinkedIn: linkedin.com/in/oluwanifesimi-adebayo
-<p align="center"> <a href="mailto:oluwanifesimiadebayo@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-oluwanifesimiadebayo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"> </a> </p>
+<p align="center"> <a href="mailto:ayodeleadebayo280@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-oluwanifesimiadebayo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"> </a> </p>
