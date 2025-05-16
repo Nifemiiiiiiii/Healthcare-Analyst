@@ -61,9 +61,11 @@ This Power BI dashboard analyzes 9,216 ER visits to uncover: Peak bottlenecks, R
 , Improve patient satisfaction by 1.8 points, Optimize resource allocation across departments.    [Read More →](https://github.com/Nifemiiiiiiii/Emergency-Room-Patient-Flow-Optimization-Report)
 
 
-### Breast Cancer Analysis
+### Breast Cancer Surgical Analytics: 
 
 ![image](https://github.com/user-attachments/assets/e1674867-59bc-4703-9631-20228b6b1d98)
+
+🔬 Identified 19.8% mortality reduction opportunities through Protein biomarker correlation analysis, Age-stratified surgical outcome evaluation and HER2 status impact quantification     [Read More →](https://github.com/Nifemiiiiiiii/Breast-Cancer-Surgical-Outcomes-Biomarker-Analysis)
 
 
 ## 🤝 Work With Me
@@ -74,7 +76,10 @@ I’m looking to collaborate with healthcare providers, health tech startups, or
 
 ## 📬 Contact Me
 
-
-![image](https://github.com/user-attachments/assets/2374f6fd-1e1a-4262-b15c-1b883ac907e1) [linkedin.com/in/oluwanifesimi-adebayo](https://www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Oluwanifesimi%20Adebayo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <p align="center"> <a href="mailto:ayodeleadebayo280@gmail.com"> <img src="https://img.shields.io/badge/Email%20Me-oluwanifesimiadebayo@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"> </a> </p>
