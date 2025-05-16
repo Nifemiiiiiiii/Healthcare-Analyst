@@ -42,7 +42,7 @@ I leverage data analytics to optimize healthcare delivery, reduce costs, and imp
 
 ![image](https://github.com/user-attachments/assets/e10f0788-4462-4b39-b499-22e855da397b)
 
-This project analyzed 9,216 ER patient records to identify bottlenecks in hospital workflows. Key findings revealed: Peak wait times of 36+ mins (exceeding 30-minute targets), Mondays & evenings as busiest periods (18% higher volume), General Practice referrals accounted for 20% of cases, 50% admission rate, with racial disparities in wait times, Implemented data-driven solutions like dynamic staffing and fast-track systems, reducing hypothetical wait times by 22%.  [Read More](https://github.com/Nifemiiiiiiii/Hospital-Emergency-Room-Dashboard)
+This project analyzed 9,216 ER patient records to identify bottlenecks in hospital workflows. Key findings revealed: Peak wait times of 36+ mins (exceeding 30-minute targets), Mondays & evenings as busiest periods (18% higher volume), General Practice referrals accounted for 20% of cases, 50% admission rate, with racial disparities in wait times, Implemented data-driven solutions like dynamic staffing and fast-track systems, reducing hypothetical wait times by 22%.  [Read More →](https://github.com/Nifemiiiiiiii/Hospital-Emergency-Room-Dashboard)
 
 
 
@@ -50,12 +50,15 @@ This project analyzed 9,216 ER patient records to identify bottlenecks in hospit
 
 ![image](https://github.com/user-attachments/assets/a9f51bef-bb68-42c5-aff2-94d46bd9163e)
 
-Analyze the impact of the Affordable Care Act (ACA) and aim to examine patient demographics, claim patterns, and premium payments in the health insurance industry. This analysis helps identify trends in policy-holder behavior, claim frequency, and factors influencing insurance costs.   [Read More](https://github.com/Nifemiiiiiiii/Health-Insurance-Analysis)
+Analyze the impact of the Affordable Care Act (ACA) and aim to examine patient demographics, claim patterns, and premium payments in the health insurance industry. This analysis helps identify trends in policy-holder behavior, claim frequency, and factors influencing insurance costs.   [Read More →](https://github.com/Nifemiiiiiiii/Health-Insurance-Analysis)
 
 
 ### Patient Emergency Room Visit Report 
 
-![image](https://github.com/user-attachments/assets/27929279-4366-4f0b-ac98-e545b31ccfd7)   [Read More](https://github.com/Nifemiiiiiiii/Emergency-Room-Patient-Flow-Optimization-Report)
+![image](https://github.com/user-attachments/assets/27929279-4366-4f0b-ac98-e545b31ccfd7)   
+
+This Power BI dashboard analyzes 9,216 ER visits to uncover: Peak bottlenecks, Referral inefficiencies, Demographic insights. Impact: Identified opportunities to Reduce wait times by 22% through dynamic staffing
+, Improve patient satisfaction by 1.8 points, Optimize resource allocation across departments.    [Read More →](https://github.com/Nifemiiiiiiii/Emergency-Room-Patient-Flow-Optimization-Report)
 
 
 ### Breast Cancer Analysis
