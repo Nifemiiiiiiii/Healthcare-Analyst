@@ -55,7 +55,7 @@ Analyze the impact of the Affordable Care Act (ACA) and aim to examine patient d
 
 ### Patient Emergency Room Visit Report 
 
-![image](https://github.com/user-attachments/assets/27929279-4366-4f0b-ac98-e545b31ccfd7)
+![image](https://github.com/user-attachments/assets/27929279-4366-4f0b-ac98-e545b31ccfd7)   [Read More](https://github.com/Nifemiiiiiiii/Emergency-Room-Patient-Flow-Optimization-Report)
 
 
 ### Breast Cancer Analysis
