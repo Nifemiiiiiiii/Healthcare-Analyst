@@ -15,12 +15,16 @@ I leverage data analytics to optimize healthcare delivery, reduce costs, and imp
 
 ## 🚀 Skills & Tools
 
-### 📊 Tools & Technologies  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+## 🚀 Skills & Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+  
 ### 🧠 Core Competencies  
 - Patient flow, ER wait time, and insurance data analysis  
 - Healthcare KPI monitoring and performance insights  
@@ -37,6 +41,8 @@ I leverage data analytics to optimize healthcare delivery, reduce costs, and imp
 ## Recent Works
 
 ### Hospital Emergency Room Service 
+
+![image](https://github.com/user-attachments/assets/e10f0788-4462-4b39-b499-22e855da397b)
 
 
 
