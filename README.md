@@ -50,6 +50,8 @@ This project analyzed 9,216 ER patient records to identify bottlenecks in hospit
 
 ![image](https://github.com/user-attachments/assets/a9f51bef-bb68-42c5-aff2-94d46bd9163e)
 
+Analyze the impact of the Affordable Care Act (ACA) and aim to examine patient demographics, claim patterns, and premium payments in the health insurance industry. This analysis helps identify trends in policy-holder behavior, claim frequency, and factors influencing insurance costs.   [Read More](https://github.com/Nifemiiiiiiii/Health-Insurance-Analysis)
+
 
 ### Patient Emergency Room Visit Report 
 
